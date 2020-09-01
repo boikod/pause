@@ -4,5 +4,6 @@
 
 layout: home
 permalink: /blog/
+title: Блог
 ---
 
