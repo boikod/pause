@@ -6,4 +6,4 @@ permalink: /author/
 
 Dmitry Boyko — urban planner, director at [GeoClever (Russia)](https://geoclever.ru), member of ISOCARP
 
-![photo](/pause/images/author-pic.JPG)
+![photo](/images/author-pic.JPG)
