@@ -17,7 +17,7 @@ title: PAUSE project
 email: sprawl.studies@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Research project by Dmitry Boyko in alliance with the ARL – Academy for Territorial Development in the Leibniz Association supported by the Alexander von Humboldt Foundation’s German Chancellor Fellowship Program
-baseurl: "/pause" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_pause: pause
 github_pause:  boikod
