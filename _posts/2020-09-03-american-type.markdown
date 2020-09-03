@@ -2,9 +2,8 @@
 layout: post
 title:  "The American type of urban sprawl"
 date:   2020-08-30 12:38:49 +0300
-categories: jekyll update
+categories: basics
 ---
-##The American type of urban sprawl
 
 In order to differentiate the peculiarities of urban sprawl in Russia, to set a starting point for a further journey, we are going to distinguish the American type of urban sprawl.
 
