@@ -1,5 +1,3 @@
-#URP2020 conference
-
 On 27th of November I had a priviledge to make a report about our (with Alexander Zuev) research during the conference "Sustainable & Resilient Urban-Rural Partnerships – URP2020" held in Leipzig. The Agenda and the book of abstracts is availiable [here](https://www.urp2020.eu/agenda.html "Link").
 Our report was done at the section S11: Land Thrift, Housing and Densification - International Perspectives on Strategies of Land Policy (Chairpersons: Thomas Hartmann, Wageningen University and Andreas Hengstermann, Bern University).
 
