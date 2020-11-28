@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Interview at the IDW"
+date:   2020-11-25 12:38:49 +0300
+categories: news
+---
 
+Thanks to my [host institution](https://www.arl-net.de), I had an opportunity to tell some details about the PAUSE project during an interview to IDW - Informationsdienst Wissenschaft. 
 
-[Pulication in German](https://idw-online.de/de/news758585?fbclid=IwAR1pWr81hgQKjD6bf_oQkfOD-FmlUnNmxhJJMTa1W7Plw-9cXHxQ4BGt5rQ)
+[Publication in German](https://idw-online.de/de/news758585?fbclid=IwAR1pWr81hgQKjD6bf_oQkfOD-FmlUnNmxhJJMTa1W7Plw-9cXHxQ4BGt5rQ)
