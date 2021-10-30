@@ -6,6 +6,7 @@ categories: news
 ---
 
 Conference: Sustainable & Resilient Urban-Rural Partnerships – URP2020 ([website]({https://www.zukunftsstadt-stadtlandplus.de/Termin-Detail/urp2020-documentation-urp2020-sustainable-resilient-urban-rural-partnerships.html}))
+
 26.–27. November 2020, Leipzig, Germany
 
 Authors: Boyko Dmitry, Zuev Alexander
@@ -15,5 +16,6 @@ Satellite cities in the Soviet Union were designed based on a different logic th
 The transition to a market economic system has led to a transformation of the spatial structure of most satellite cities in Russia. This is due to such phenomena as the densification of buildings due to open public spaces, the extensive spread of buildings, a decrease in the effectiveness of land use regulation.
 The Volzhsky city, built in the orbit of the influence of Volgograd, is a typical example of the Soviet satellite city. The goal of the study was to analyze the spatial dynamics of the satellite city from 1990 to 2020. The satellite imagery data, open data from government information systems, data on transport and urban mobility, and real estate market monitoring were used.
 We have identified relationships related to the initial and achieved building density, accessibility of services, distribution of property prices, expansion of built-up areas. As a result, we built a semantic model of the spatial development of the satellite city, which can be used to regulate land use parameters and the development of similar urban areas.
+
 
 ![urp_screenshot](https://res.cloudinary.com/dmiazmgpj/image/upload/v1606531666/Screenshot_2020-11-28_%D0%B2_03.43.29_jka9cc.png)
