@@ -3,6 +3,9 @@ layout: page
 permalink: /
 ---
 ![header](/images/zersiedelung.png)
+
+## PAUSE - Policies Against Urban Sprawl: Experience of Germany
+
 ## Status quo
 Recently the problems of unmanaged urbanization have become global. These processes, on the one hand, are associated with satisfying the ever-growing needs of inhabitants and businesses. On the other hand, they inevitably lead to an environmental letdown, degradation of natural and agricultural landscapes, and the deprivation of the valuable agricultural land. The sprawl of cities and urbanized territories, accompanied by the extensive consumption of land resources, leads to a decrease in interaction density, an unjustified lengthening of transport communications, a loss of local identity and, ultimately, to deterioration of the living conditions of people.
 
