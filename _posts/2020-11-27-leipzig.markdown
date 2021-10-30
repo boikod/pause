@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Post-Soviet satellite city and market forces: Volzhsky case-study"
-date:   2020-11-27 12:00:00 +0300
+date:   2020-11-27 12:03:42 +0300
 categories: news
 ---
 
