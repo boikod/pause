@@ -1,10 +1,17 @@
-International Seminar on Urban Form
-URBAN FORM AND THE SUSTAINABLE PROSPEROUS CITY
-29 June 2021 - 03 July 2021, Glasgow, UK
+---
+layout: post
+title:  "Land plot system analysis for urban transect zones delimitation in Russia"
+date:   2020-07-03 12:03:42 +0300
+categories: news
+---
+**Conference:** International Seminar on Urban Form - ISUF2021 "URBAN FORM AND THE SUSTAINABLE PROSPEROUS CITY"
+[website](http://isuf2021.com)
 
-Boyko Dmitry, Zuev Alexander, Parygin Danila
-Land plot system analysis for urban transect zones delimitation in Russia
+**Place and date:** Glasgow, UK, 29. June - 03. July 2021
 
+**Authors:** Boyko Dmitry, Zuev Alexander, Parygin Danila
+
+**Abstract:** 
 The development of metropolitan areas in Russia for urban morphologists is either one of the thematic "white spots" or is interpreted as a set of post-Soviet stereotypes. Meanwhile, the resource base for studies of the urban form in Russia is being replenished with new data, which makes it possible to more accurately assess the measure of compliance of the urban tissue with the criteria of sustainability and resilience. One of such information resources containing information about land plots and buildings, the filling and updating of which since 2008 allows us to talk on the sufficiency and reliability, is the Unified State Register of Real Estate.
 Our study aimed to develop methods for the analysis of urbanized areas at the level of land plots, based on the methodology of the rural-urban transect. A set of parameters was developed that quantify the geometry, accessibility and diversity of land plots, on the basis of which individual plots using GIS were combined into clusters corresponding to transect zones. These methods were tested on the example of the territory of the city of Tula, established in the 12th century, having ca. 500.000 inhabitants and an area of 145,8 square kilometers.
 As a result of the study, we came to the conclusion that the share of the suburban transect zone in Tula is one of the largest. At the same time, the suburban area is characterized by a low degree of functional diversity, regardless of its genesis from rural settlement or agricultural land. To a certain extent, parallels can be drawn here with the American suburbia. The developed methods have shown some universality in the Russian context, which will allow them to be applied to the analysis of other metropolitan areas.
