@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Land plot system analysis for urban transect zones delimitation in Russia"
-date:   2020-07-03 12:03:42 +0300
+date:   2021-07-03 12:03:42 +0300
 categories: news
 ---
-**Conference:** International Seminar on Urban Form - ISUF2021  
-"URBAN FORM AND THE SUSTAINABLE PROSPEROUS CITY"  
+**Conference:** International Seminar on Urban Form - ISUF2021 "URBAN FORM AND THE SUSTAINABLE PROSPEROUS CITY"  
 [website](http://isuf2021.com)
 
 **Place and date:** Glasgow, UK, 29. June - 03. July 2021
