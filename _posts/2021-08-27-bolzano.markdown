@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Spatial patterns of post-socialist urban growth in Russian urban regions"
+date:   2021-08-21 12:03:42 +0300
+categories: news
+---
+**Conference:** The 60th ERSA Congress "Territorial Futures – Visions and scenarios for a resilient Europe"   
+[website](https://ersa.eventsair.com/60th-ersa-congress-bolzano-italy/)
+
+**Place and date:** Bolzano, Italy, 24. - 27. August 2021
+
+**Authors:** Boyko Dmitry
+
+**Abstract:**  
+After establishing the market-oriented approach to land use regulation, Russian urban regions, built up under socialist planning approaches, confronted a period of market forces' domination. During the transformation phase a post-socialist shift took place. In order to describe the changes happened from 1990 till 2020, remote sensing and GIS spatial data for 15 Russian urban regions were analyzed. Among other spatial patterns of land use change, features of urban sprawl were discovered and summarized as a Russian post-socialist urban sprawl type.
