@@ -22,3 +22,6 @@ The project aims to achieve the following outcomes:
 - increasing the awareness of Russian practitioners and scientists on the German experience towards sustainable development goals, and vice versa
 - empowering master plans and other methods used in practice to improve the spatial organization of Russian cities
 - enhancement of the planning culture in Russia in order to develop an international perspective and wide vision of the future of the mankind
+
+## Timeframe
+01 October 2020 - 28 February 2022
