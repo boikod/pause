@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Land plot system analysis for urban transect zones delimitation in Russia"
+title:  "Land plot system analysis for urban transect zones delimitation in Russia (on the example of Tula)"
 date:   2021-07-03 12:03:42 +0300
 categories: news
 ---
