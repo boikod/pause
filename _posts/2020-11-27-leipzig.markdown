@@ -6,6 +6,7 @@ categories: news
 ---
 **Conference:** Sustainable & Resilient Urban-Rural Partnerships – URP2020 
 [website](https://www.zukunftsstadt-stadtlandplus.de/Termin-Detail/urp2020-documentation-urp2020-sustainable-resilient-urban-rural-partnerships.html)
+
 **Place and date:** Leipzig, Germany, 26.–27. November 2020
 
 ![urp_screenshot](https://res.cloudinary.com/dmiazmgpj/image/upload/v1606531666/Screenshot_2020-11-28_%D0%B2_03.43.29_jka9cc.png)
