@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 ---
-## PAUSE - Policies Against Urban Sprawl: Experience of Germany
+# Policies Against Urban Sprawl: Experience of Germany
 
 ![header](/images/zersiedelung.png)
 
