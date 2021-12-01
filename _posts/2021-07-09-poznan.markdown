@@ -22,4 +22,6 @@ Based on remote sensing data [3], we estimated the growth of built-up areas and 
 [1] N. Kurichev, E. Kuricheva, Regional Science Policy & Practice 2020, vol. 12, 4, 689-703  
 [2] Ye. Eryomenko, Forbes Business, 27.04.2017  
 [3] M. Schiavina, S. Freire, K. MacManus, EU Joint Research Centre (JRC) 2019  
-[4] OECD, Rethinking urban sprawl: Moving towards sustainable cities, OECD Publishing, 2019  
+[4] OECD, Rethinking urban sprawl: Moving towards sustainable cities, OECD Publishing, 2019 
+
+![Moscow urban growth](/images/Moscow_100.gif)
