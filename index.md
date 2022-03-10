@@ -24,4 +24,4 @@ The project aims to achieve the following outcomes:
 - enhancement of the planning culture in Russia in order to develop an international perspective and wide vision of the future of the mankind
 
 ## Timeframe
-01 October 2020 - 31 May 2022
+01 October 2020 - 28 February 2022
