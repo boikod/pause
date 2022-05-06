@@ -7,7 +7,6 @@ title: Papers
 1. Бойко Д.О. Особенности национального расползания: урбан спроул в России и в Германии // в книге: Города будущего: пространственное развитие, соучаствующее управление и творческие индустрии: монография (ред. Соснин Д.П.). - Москва: Издательский дом "Дело" РАНХиГС, 2021. - с. 94-112.
 
 [E-library](https://elibrary.ru/item.asp?id=48240304&pff=1),
-
 [ResearchGate](https://www.researchgate.net/publication/358549457_Osobennosti_nacionalnogo_raspolzania_urban_sproul_v_Rossii_i_v_Germanii)
 
 
