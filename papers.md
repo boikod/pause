@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blog/
+permalink: /papers/
 title: Papers
 ---
 
