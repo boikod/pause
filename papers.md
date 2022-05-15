@@ -3,6 +3,8 @@ layout: page
 permalink: /papers/
 title: Papers
 ---
+**Scientific outcomes**  
+
 Main scientific results of the project have been published in three papers - one in Russian and two in English.
 
 
