@@ -3,6 +3,8 @@ layout: page
 permalink: /papers/
 title: Papers
 ---
+Main scientific results of the project have been published in three papers - one in Russian and two in English.
+
 
 Бойко Д.О. **Особенности национального расползания: урбан спроул в России и в Германии** // в книге: Города будущего: пространственное развитие, соучаствующее управление и творческие индустрии: монография (ред. Соснин Д.П.). - Москва: Издательский дом "Дело" РАНХиГС, 2021. - с. 94-112.
 [E-library](https://elibrary.ru/item.asp?id=48240304&pff=1),
