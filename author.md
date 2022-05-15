@@ -10,4 +10,4 @@ Dmitry Boyko — urban planner, director at [GeoClever (Russia)](http://geocleve
 [Google Scholar](https://scholar.google.com/citations?user=oNxzvyQAAAAJ)  
 [Twitter](https://twitter.com/dm_boyko)
 
-![photo](/images/foto Boyko-klein.png)
+![photo](/images/author-pic.JPG)
